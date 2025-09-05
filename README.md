@@ -1,3 +1,5 @@
+<div align=center>I'm Bryan Zacarias</div>
+
 ## 👋 About Me
 
 I'm a Computer Science Major at CUNY Brooklyn College (Class of 2025). I love creating projects that pique my interest in gaming or simply enhance everyday tasks.
