@@ -62,6 +62,6 @@ I'm a Computer Science Major at CUNY Brooklyn College (Class of 2025). I love cr
   <!-- Bottom two cards side by side -->
   <img src="https://github-readme-stats.vercel.app/api?username=Bzacarias03&show_icons=true&theme=dark&hide_title=true&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
        width="400px" />
-  <img src="https://github-readme-stats-Bzacarias03s-projects.vercel.app/api/wakatime?username=@Bzacarias03&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
+  <img src="https://github-readme-stats-Bzacarias03-projects.vercel.app/api/wakatime?username=@Bzacarias03&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
        width="400px" />
 </div>
