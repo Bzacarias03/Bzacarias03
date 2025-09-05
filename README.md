@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 About Me
+
+I'm a Computer Science Major at CUNY Brooklyn College (Class of 2025). I love creating projects that pique my interest in gaming or simply enhance everyday tasks.
 
 ## 🛠️ Tech Stack
 
@@ -47,3 +49,19 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
+
+## 📈 Stats
+
+<div align="center">
+  <!-- Top card - Top Languages (longest/widest) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bzacarias03&theme=dark&layout=compact&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
+       width="300px" />
+  
+  <br><br>
+  
+  <!-- Bottom two cards side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bzacarias03&show_icons=true&theme=dark&hide_title=true&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" 
+       width="400px" />
+  <img src="https://github-readme-stats-walletkuns-projects.vercel.app/api/wakatime?username=@Bzacarias03&theme=dark&hide_border=true&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117&layout=compact" 
+       width="400px" />
+</div>
