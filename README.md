@@ -1,4 +1,10 @@
-<h1 align=center>I'm Bryan Zacarias</h1>
+<div align="center">
+  <h1>I'm Bryan Zacarias</h1>
+  <p>
+    <a href="https://www.linkedin.com/in/bryan-zacarias-9748612aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:bryan.zacarias7171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ## 👋 About Me
 
