@@ -60,9 +60,9 @@ I am a Backend/Infra engineer with a specialty in distributed systems and buildi
 
 ## 📈 Stats
 
-<div>
+<div align="center">
   
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bzacarias03)](https://github.com/stats-organization/github-stats-extended)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Bzacarias03&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Bzacarias03&include_all_commits=true&theme=dark)
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bzacarias03&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Bzacarias03&langs_count=4&theme=dark)
   
